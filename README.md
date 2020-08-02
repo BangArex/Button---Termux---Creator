@@ -1,2 +1,2 @@
 # Button---Termux---Creator
-# awas lu ye, jan recode kontol, permission recode wa : 081234884954
+# Hai Ukti, Tolong Kalo Anda Mau Recode, Ada Permissionnya Ya Ukhti 😊, Permisson recode Wa : 081234884954
