@@ -2,7 +2,7 @@
 # coding=utf-8
 # gw doain lu yg recode, meninggal!, permission recode wa ke gw : 081234884954
 
-import os,sys,time,datetime,json,urllib,re,cookielib,requests
+import os,sys,time,datetime,json,urllib,re,cookielib
 from time import sleep
 
 
